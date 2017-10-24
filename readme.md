@@ -10,3 +10,8 @@
 Me: 
 [Twitter](https://twitter.com/mi_is_h)
 [Soundcloud](https://soundcloud.com/miiiis)
+
+Not me: 
+
+[MFBerlin](http://mfberlin.de/)
+[Elektron](https://elektron.se/)
