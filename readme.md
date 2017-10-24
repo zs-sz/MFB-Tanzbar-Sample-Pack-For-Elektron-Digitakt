@@ -1,4 +1,4 @@
-#Mfb Tanzbar sample pack for Elektron's Digitakt sampler (or any other instrument/daw that can eat .wav file)
+## Mfb Tanzbar sample pack for Elektron's Digitakt sampler (or any other instrument/daw that can eat .wav files)
 
 ![mfb tanzbar device](http://mfberlin.de/wp-content/uploads/TANZBAR_23.jpg)
 
